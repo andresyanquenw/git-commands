@@ -4,3 +4,4 @@ desc.style.color = "green";
 desc.style.backgroundColor = "red"; 
 
 const newVariable = 'test';
+const newVariable1 = 'test';
